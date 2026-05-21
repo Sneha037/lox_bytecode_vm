@@ -1,0 +1,1 @@
+A bytecode interpreter for the Lox programming language, implemented as a stack-based virtual machine in C. Includes a compiler frontend, instruction decoding, lexical scoping and closures, and a managed runtime with heap allocation and garbage collection.
